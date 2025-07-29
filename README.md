@@ -5,6 +5,8 @@
 ## 💻 Projeto
 
 Este projeto é um tutorial que ensina a como criar um projeto de **Conversor de Moedas** ao usar _HTML_ e _CSS_.
+<br>
+<p><strong>Conversor de Moedas:</strong> Esse projeto é um conversor de moedas convencional onde o usuário pode fazer conversões entre Real, Dólar e Euro...</p>
 
 ## 🚀 Tecnologias
 
